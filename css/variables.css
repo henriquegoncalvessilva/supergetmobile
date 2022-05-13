@@ -1,0 +1,10 @@
+:root{
+    --white-color:#FFFFFF;
+    --yellow-color:#FFE211;
+    --red-light:#F22824;
+    --red-dark:#DC292E;
+    --neutral-color-100:#343A40;
+    --neutral-color-200:#495057;
+    --neutral-color-300:#ADB5BD;
+    --red-color-hero: linear-gradient(350.43deg, #662C62 -83.52%, rgba(102, 44, 98, 0) 97.99%);
+}

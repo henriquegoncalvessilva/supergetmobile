@@ -1,6 +1,6 @@
 # Super Get Mobile - Codeboost Challenge
 
-## Prototype - Not responsive
+## Prototype - No responsive
 
 #### [Go to the Prototype ](https://henriquegoncalvessilva.github.io/supergetmobile/index.html)
 

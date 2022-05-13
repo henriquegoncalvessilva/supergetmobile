@@ -6,4 +6,4 @@
 
 ![alt text](https://i.ibb.co/RhT993V/image.png)
 
-This project is challenge about Super GetMobile of Codeboost course( https://codeboost.com.br/ ). I could experiment and improve some concepts about Front-End.
+This project is challenge about SuperGet Mobile of Codeboost course( https://codeboost.com.br/ ). I could experiment and improve some concepts about Front-End.
